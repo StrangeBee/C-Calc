@@ -10,7 +10,7 @@ int main(void)
 
 	if (age < 18)
 	{
-		printf("\nSorry! You are not eligible for this programme!\n")
+		printf("\nSorry! You are not eligible for this programme!\n");
 	}
 	else
 	{
